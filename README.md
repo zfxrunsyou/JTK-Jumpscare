@@ -5,3 +5,5 @@ This is the prntscrn jeff the killer jumpscare, as a program.
 2. cmd promt - >
 "pip install pyautogui"
 3. run jumpscare.py
+# Tip 
+works best with chrome, microsoft edge or firefox
